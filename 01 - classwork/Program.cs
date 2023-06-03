@@ -12,6 +12,8 @@ int maxValue = Convert.ToInt32(Console.ReadLine());
 
 int[,] myArray = Create2DMatrix(rows, columns, minValue, maxValue);
 Print2DArray(myArray);
+Console.WriteLine();
+Console.WriteLine($"Summary of elements in main diagonal is {SumElementMainDiag(myArray)}");
 
 int[,] Create2DMatrix (int rows, int columns, int minValue, int maxValue)
 {
@@ -37,4 +39,17 @@ void Print2DArray(int[,] array)
         }
         Console.WriteLine();
     }
+}
+
+int SumElementMainDiag(int[,] array)
+{
+    int sum = 0;
+    for(int i = 0; i < array.GetLength(0); i++)
+    {
+        for(int j = 0; j < array.GetLength(1); j++)
+        {
+            if(i==j) sum += array[i,j];
+        }
+    }
+    return sum;
 }

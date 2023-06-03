@@ -14,6 +14,16 @@ int[,] myArray = Create2DMatrix(rows, columns, minValue, maxValue);
 Print2DArray(myArray);
 Console.WriteLine();
 Console.WriteLine($"Summary of elements in main diagonal is {SumElementMainDiag(myArray)}");
+Console.WriteLine();
+int[,] myNewArray = CreateMy2DMatrix(rows, columns);
+Console.WriteLine();
+Console.WriteLine("My new array: ");
+Print2DArray(myNewArray);
+Console.WriteLine();
+int[,] myModifyArray = ModifyMy2DMatrix(myNewArray);
+Console.WriteLine("My modified array: ");
+Print2DArray(myModifyArray);
+
 
 int[,] Create2DMatrix (int rows, int columns, int minValue, int maxValue)
 {
@@ -52,4 +62,29 @@ int SumElementMainDiag(int[,] array)
         }
     }
     return sum;
+}
+
+int[,] CreateMy2DMatrix (int rows, int columns)
+{
+    int[,] array = new int[rows, columns];
+    for(int i = 0; i < rows; i++)
+    {
+        for(int j = 0; j < columns; j++)
+        {
+            array[i, j] = i + j;
+        }
+    }
+    return array;
+}
+
+int[,] ModifyMy2DMatrix (int[,] array)
+{
+    for(int i = 0; i < rows; i++)
+    {
+        for(int j = 0; j < columns; j++)
+        {
+            if ((i%2 == 1) && (j%2 == 1)) array[i, j] = array[i, j] * array[i, j];
+        }
+    }
+    return array;
 }

@@ -1,0 +1,15 @@
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\bin\Debug\net7.0\01 - classwork.exe
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\bin\Debug\net7.0\01 - classwork.deps.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\bin\Debug\net7.0\01 - classwork.runtimeconfig.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\bin\Debug\net7.0\01 - classwork.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\bin\Debug\net7.0\01 - classwork.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.csproj.AssemblyReference.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.AssemblyInfoInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.AssemblyInfo.cs
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.csproj.CoreCompileInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\refint\01 - classwork.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\01 - classwork.genruntimeconfig.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\12 - Семинар 7\01 - classwork\obj\Debug\net7.0\ref\01 - classwork.dll
